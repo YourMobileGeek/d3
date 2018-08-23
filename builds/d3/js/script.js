@@ -1,0 +1,1 @@
+d3.selectAll("tr:nth-child(1) .day-high .temp").text("hot");
