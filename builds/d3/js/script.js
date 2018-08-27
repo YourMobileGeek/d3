@@ -15,6 +15,7 @@ d3.selectAll("tr:nth-child(4) .day-high")
 
 d3.select('h2 span')
     .classed('small', false)
+    
 
 d3.selectAll('tr')
     .insert('td', ':first-child')
